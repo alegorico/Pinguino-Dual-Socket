@@ -1,4 +1,4 @@
-# Pinguino-Dual-Socket
+# Pinguino 8bit Dual Socket (Pinguino mm8)
 
 Este es un proyecto para la creacion de una placa Like Pinguino
 
